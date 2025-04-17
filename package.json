@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jaden Hu",
+	"description": "a project which is the first project for learning NPM",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
