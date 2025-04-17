@@ -3,6 +3,7 @@
 	"author": "Jaden Hu",
 	"description": "a project which is the first project for learning NPM",
 	"keywords": ["freecodecamp","npm"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
